@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exchange_rate</string>
+    <string name="input_amount">Input</string>
+    <string name="calculate_exchange_rate">Exchange rate calculator</string>
+    <string name="after_exchange">Result:</string>
+    <string name="Button_name">Convert</string>
+    <string name="Spot_rate">Spot Rate:</string>
+</resources>
