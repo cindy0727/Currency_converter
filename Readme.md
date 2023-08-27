@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Currency Converter
 ## run module
 1. Press the Run'app' button or Shift+F10
