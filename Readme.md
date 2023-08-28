@@ -1,6 +1,6 @@
 # Currency Converter
-## run module
-1. Press the Run'app' button or Shift+F10
+## Run module
+Press the Run'app' button or Shift+F10
 
 ## Usage
 1. Enter the amount in TWD which you want to convert
